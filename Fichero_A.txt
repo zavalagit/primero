@@ -1,0 +1,3 @@
+Contenido del fichero A
+
+modificacion con muchas lineas
